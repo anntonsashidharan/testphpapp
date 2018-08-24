@@ -7,5 +7,5 @@ print "Hello, World! php version is " . PHP_VERSION . "<hr>";
   for ($i = 0; $i <= 1000000; $i++) {
     $x += sqrt($x);
   }
-  echo "OK  UPDATED";
+  echo "OK  UPDATED 2";
 ?>
